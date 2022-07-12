@@ -1,2 +1,2 @@
-# Open Source Nature 
-Open Source Nature is a collection of open source projects that aim to provide high quality information as nature and biodiversity. 
+# .github
+This repository is used to display information on the Open Source Nature Github home page.
